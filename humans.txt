@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dallos Gabor	gabor.dallos@knorr-bremse.com	
 
 # THANKS
 
