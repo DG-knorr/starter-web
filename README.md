@@ -2,9 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is a simple website project for
-showing how to use GIT and Github together.
-Adding a line to rebasing example, then
-more changes from feature branch too.
+showing how to use GIT and Github together. Updating emergency fix for stashing.
 
 ## Introduction
 
